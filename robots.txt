@@ -1,2 +1,3 @@
 User-agent: *
 Allow:/
+Sitemap: https://musing-pike-390b0a.netlify.app/sitemap.xml
